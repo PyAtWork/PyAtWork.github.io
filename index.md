@@ -3,6 +3,8 @@ title: "Home"
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
+<p class="eyebrow">Lead Data Scientist · Time Series · Geospatial Data · Statistics · ML & AI</p>
+
 <style>
   .site-header a {
     color: #6b7280;
@@ -17,8 +19,13 @@ description: "Lead Data Scientist working at the intersection of time series, ge
   </nav>
 </header>
 
+<section class="section intro">
+  <p>I turn complex <strong>temporal and spatial data into models, insights, and decisions</strong>.</p>
+  <p>My work sits at the intersection of <strong>advanced statistics, machine learning, and AI</strong> — with a particular interest in understanding <em>how things change over time and across space</em>.</p>
+</section>
+
 <section class="hero">
-  <p class="eyebrow">Lead Data Scientist · Time Series · Geospatial Data · Statistics · ML & AI</p>
+  
   <h1>Understanding complex systems through data.</h1>
   <p class="lead">
     I develop probabilistic and machine-learning methods for understanding systems
