@@ -3,9 +3,25 @@ title: "Home"
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
+<style>
+  .site-header a {
+    color: #6b7280;
+  }
+</style>
+
+<header class="site-header">
+  <a class="site-title" href="{{ '/' | relative_url }}">Nadine Berner</a>
+  <nav aria-label="Main navigation">
+    <a href="{{ '/about/' | relative_url }}">About</a>
+    <a href="{{ '/research/' | relative_url }}">Research</a>
+    <a href="{{ '/publications/' | relative_url }}">Publications</a>
+    <a href="{{ '/work/' | relative_url }}">Work</a>
+  </nav>
+</header>
+
 <section class="hero">
-  <p class="eyebrow">Senior Data Scientist · Time Series · Geospatial · Statistics · ML & AI</p>
-  <h1>Understanding complex systems through data insights.</h1>
+  <p class="eyebrow">Lead Data Scientist · Time Series · Geospatial Data · Statistics · ML & AI</p>
+  <h1>Understanding complex systems through data.</h1>
   <p class="lead">
     I develop probabilistic and machine-learning methods for understanding systems
     that evolve across <strong>time, space and uncertainty</strong>.
@@ -96,8 +112,12 @@ description: "Lead Data Scientist working at the intersection of time series, ge
     about what works — and what definitely doesn't.
   </p>
   <div class="actions">
-    <a class="button primary" href="mailto:YOUR-EMAIL@example.com">Get in touch</a>
-    <a class="button" href="https://github.com/USERNAME">GitHub</a>
+    <a class="button primary" href="mailto:dinschuetz@web.de">Get in touch</a>
+    <a class="button" href="https://github.com/pyatwork">GitHub</a>
     <a class="button" href="https://www.linkedin.com/in/USERNAME/">LinkedIn</a>
   </div>
 </section>
+
+<footer class="site-note">
+  <p>© 2026 Nadine Berner. Built with Jekyll and GitHub Pages ❤️</p>
+</footer>
