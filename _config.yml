@@ -1,0 +1,29 @@
+title: "Nadine Berner"
+description: "Senior Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
+url: "https://nadineberner.github.io"
+baseurl: ""
+lang: "en"
+
+markdown: kramdown
+permalink: pretty
+
+collections:
+  projects:
+    output: true
+    permalink: /work/:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      type: projects
+    values:
+      layout: project
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor
