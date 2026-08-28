@@ -85,11 +85,6 @@ description: "Senior Data Scientist working at the intersection of time series, 
       <h3>Bayesian inference about climate transitions</h3>
       <p>Time series · Bayesian inference · Climate dynamics</p>
     </article>
-    <article>
-      <span>2021 · Quaternary Science Reviews</span>
-      <h3>Northern Hemisphere glaciation, climate and human evolution</h3>
-      <p>Climate · Geospatial context · Complex systems</p>
-    </article>
   </div>
 </section>
 
