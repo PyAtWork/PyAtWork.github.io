@@ -1,10 +1,10 @@
 title: "Nadine Berner"
 description: "Senior Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
-url: "https://nadineberner.github.io"
+url: "https://pyatwork.github.io"
 baseurl: ""
 lang: "en"
 
-markdown: kramdown
+markdown: github
 permalink: pretty
 
 collections:
