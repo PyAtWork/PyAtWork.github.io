@@ -3,7 +3,7 @@ title: "Home"
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
-<p class="eyebrow">Lead Data Scientist · Time Series · Geospatial Data · Statistics · ML & AI</p>
+<p class="eyebrow">Lead Data Scientist · ⏱️ Time Series · 🌍 Geospatial Data · 📐 Statistics · 🤖 ML & AI</p>
 
 <style>
   .site-header a {
@@ -16,7 +16,6 @@ description: "Lead Data Scientist working at the intersection of time series, ge
     <a href="{{ '/research/' | relative_url }}">Research</a>
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
     <a href="{{ '/work/' | relative_url }}">Work</a>
-  </nav>
 </header>
 
 <section class="section intro">
