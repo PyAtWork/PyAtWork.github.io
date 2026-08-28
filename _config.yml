@@ -4,7 +4,7 @@ url: "https://pyatwork.github.io"
 baseurl: ""
 lang: "en"
 
-markdown: github
+markdown: kramdown
 permalink: pretty
 
 collections:
