@@ -10,8 +10,6 @@ description: "Lead Data Scientist working at the intersection of time series, ge
 </style>
 
 <header class="site-header">
-  <a class="site-title" href="{{ '/' | relative_url }}">Nadine Berner</a>
-  <nav aria-label="Main navigation">
     <a href="{{ '/about/' | relative_url }}">About</a>
     <a href="{{ '/research/' | relative_url }}">Research</a>
     <a href="{{ '/publications/' | relative_url }}">Publications</a>
