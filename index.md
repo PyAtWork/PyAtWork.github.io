@@ -1,11 +1,11 @@
 ---
 title: "Home"
-description: "Senior Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
+description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
 <section class="hero">
   <p class="eyebrow">Senior Data Scientist · Time Series · Geospatial · Statistics · ML & AI</p>
-  <h1>Understanding complex systems through data.</h1>
+  <h1>Understanding complex systems through data insights.</h1>
   <p class="lead">
     I develop probabilistic and machine-learning methods for understanding systems
     that evolve across <strong>time, space and uncertainty</strong>.
