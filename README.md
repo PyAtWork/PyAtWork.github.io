@@ -1,92 +1,118 @@
-# PyAtWork.github.io
+# Hi, I'm Nadine 👋
 
-# 👋 Welcome to My Website
+### Senior Data Scientist · Time Series · Geospatial · Statistics · ML & AI
 
-> A short description about yourself, your project, or your organization.
+I turn complex **temporal and spatial data into models, insights, and decisions**.
 
----
+My work sits at the intersection of **advanced statistics, machine learning, and AI** — with a particular interest in understanding *how things change over time and across space*.
 
-## About Me
-
-Hi! I'm **[Your Name]**.
-
-Here you can briefly describe who you are, what you work on, and what visitors can find on this website.
-
-* 💻 **Field:** [e.g. Software Development]
-* 📍 **Location:** [City / Country]
-* 🚀 **Current Project:** [Project Name]
-* 📫 **Contact:** [Email / Social Media]
+[GitHub](https://github.com/USERNAME) · [LinkedIn](https://linkedin.com/in/USERNAME) · [Email](mailto:YOUR-EMAIL@example.com)
 
 ---
 
-## 🚀 Projects
+## What I work on
 
-### [Project 1](https://github.com/USERNAME/PROJECT)
+**⏱️ Time Series**
+Forecasting, state-space models, anomaly detection, causal inference, uncertainty quantification, and temporal representation learning.
 
-A short description of the project.
+**🌍 Geospatial Data**
+Spatial statistics, spatial-temporal modelling, remote sensing, mobility, location intelligence, and geographic ML.
 
-**Technologies:** `Python` · `JavaScript` · `Docker`
+**📐 Statistics + ML**
+Bayesian modelling, probabilistic methods, hierarchical models, feature engineering, gradient boosting, deep learning, and model evaluation.
 
-### [Project 2](https://github.com/USERNAME/PROJECT)
-
-A short description of the project.
-
-**Technologies:** `React` · `TypeScript` · `Node.js`
-
-### [Project 3](https://github.com/USERNAME/PROJECT)
-
-A short description of the project.
-
-**Technologies:** `C#` · `.NET` · `SQL`
+**🤖 AI**
+LLMs, embeddings, AI-assisted analytics, retrieval-augmented systems, and combining foundation models with structured data.
 
 ---
 
-## 🛠️ Skills
+## Selected Work
 
-| Area        | Technologies                   |
-| ----------- | ------------------------------ |
-| Programming | Python, JavaScript, TypeScript |
-| Web         | HTML, CSS, React               |
-| Backend     | Node.js, .NET                  |
-| DevOps      | Docker, GitHub Actions         |
-| Databases   | PostgreSQL, MySQL              |
+### 🌦️ [Project Name]
 
----
+**Spatiotemporal forecasting**
 
-## 📚 Blog / Articles
+A forecasting system combining statistical models and ML to predict [target] across [regions].
 
-* **[Article 1](./blog/article-1)** — Short description
-* **[Article 2](./blog/article-2)** — Short description
-* **[Article 3](./blog/article-3)** — Short description
+`Python` `PyTorch` `XGBoost` `Statsmodels` `GeoPandas`
 
----
+→ [Read more](#)
 
-## 📊 GitHub
+### 🗺️ [Project Name]
 
-You can find my open-source projects and contributions on GitHub:
+**Geospatial modelling**
 
-**[github.com/USERNAME](https://github.com/USERNAME)**
+Analysing [dataset/problem] to understand spatial patterns, dependencies, and uncertainty.
 
----
+`Python` `PostGIS` `GeoPandas` `Rasterio` `PyMC`
 
-## 📫 Contact
+→ [Read more](#)
 
-Want to work together or have a question?
+### 📈 [Project Name]
 
-* 📧 [Email](mailto:YOUR-EMAIL@example.com)
-* 💼 [LinkedIn](https://linkedin.com/in/USERNAME)
-* 🐙 [GitHub](https://github.com/USERNAME)
+**Time-series anomaly detection**
+
+A probabilistic approach to detecting unusual behaviour in high-frequency temporal data.
+
+`Python` `Pandas` `NumPy` `Scikit-learn`
+
+→ [Read more](#)
 
 ---
 
-## 📄 About This Website
+## Toolbox
 
-This website is powered by **GitHub Pages**.
+**Languages**
+Python · SQL · R · Bash
 
-```text
-Built with ❤️ and Markdown
-```
+**Statistics & Modelling**
+Bayesian statistics · Causal inference · State-space models · GLMs · Hierarchical models · Uncertainty quantification
+
+**Machine Learning**
+Scikit-learn · XGBoost · LightGBM · PyTorch · Deep learning
+
+**Geospatial**
+GeoPandas · Shapely · Rasterio · PostGIS · GDAL
+
+**AI / LLMs**
+LLMs · Embeddings · RAG · Agents · Vector databases
+
+**Data & Engineering**
+Pandas · NumPy · Spark · Docker · Git · CI/CD · Cloud
 
 ---
 
-© 2026 **[Your Name]**
+## A few things I care about
+
+* **Good models start with good questions.**
+* Uncertainty is information, not a nuisance.
+* Spatial and temporal structure should rarely be treated as an afterthought.
+* The best solution isn't always the most complicated one.
+* Reproducibility matters.
+* And yes — sometimes a simple plot tells you more than another neural network. 🙂
+
+---
+
+## Notes & Experiments
+
+I occasionally write about things I'm exploring:
+
+* [Forecasting beyond the point estimate](#)
+* [What spatial autocorrelation means for ML](#)
+* [Bayesian vs. ML forecasting](#)
+* [Working with irregular time series](#)
+* [LLMs meet structured data](#)
+
+---
+
+## Let's connect
+
+Interested in **time series, geospatial modelling, statistics, ML, or applied AI**?
+
+I'm always happy to exchange ideas, discuss interesting problems, or talk about what works — and what definitely doesn't.
+
+**[GitHub](https://github.com/USERNAME)** · **[LinkedIn](https://linkedin.com/in/USERNAME)** · **[Email](mailto:YOUR-EMAIL@example.com)**
+
+---
+
+<sub>© 2026 Nadine Berner · Built with GitHub Pages ❤️ · Made with data, curiosity & a healthy respect for uncertainty.</sub>
