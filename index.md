@@ -3,6 +3,10 @@ title: Home
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
+**[Home](/)** · [About](/about/) · [Research](/research/) · [Publications](/publications/)
+
+---
+
 Lead Data Scientist · ⏱️ Time Series · 🌍 Geospatial Data · 📐 Statistics · 🤖 ML & AI
 
 I turn complex **temporal and spatial data into models, insights, and decisions**.
