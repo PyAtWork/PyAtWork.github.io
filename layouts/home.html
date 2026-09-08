@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<section class="hero">
+  <div class="hero-inner">
+    <img class="hero-photo" src="{{ '/assets/img/profile.jpg' | relative_url }}" alt="{{ site.title }}">
+    <div class="hero-text">
+      <h1>{{ site.title }}</h1>
+      {% if page.role %}<p class="hero-role">{{ page.role }}</p>{% endif %}
+      <p class="hero-tagline">{{ site.description }}</p>
+    </div>
+  </div>
+</section>
+
+{{ content }}

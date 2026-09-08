@@ -1,9 +1,9 @@
 ---
 title: Home
+layout: home
+role: "Lead Data Scientist"
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
-
-Lead Data Scientist · ⏱️ Time Series · 🌍 Geospatial Data · 📐 Statistics · 🤖 ML & AI
 
 I turn complex **temporal and spatial data into models, insights, and decisions**.
 

@@ -10,8 +10,10 @@
 <body>
 
   <header class="site-header">
-    <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
-    {% include nav.html %}
+    <div class="site-header-inner">
+      <a class="site-title" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+      {% include nav.html %}
+    </div>
   </header>
 
   <main class="site-main">
