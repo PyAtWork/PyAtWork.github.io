@@ -7,7 +7,7 @@ permalink: /teaching/
 
 ## Mentoring
 
-I mentor women in IT & Data Science through [coffeecodebreak](https://coffeecodebreak.de/html/female-tech-mentors-en.html) — supporting mentees navigating technical career paths, from breaking into the field to growing into senior roles.
+I mentor women in IT & Data Science through [coffeecodebreak](https://coffeecodebreak.de/html/female-tech-mentors-en.html) — supporting mentees navigating technical career paths, from breaking into the field to growing into senior roles. [Read an interview about my work as a mentor →](https://net4tec.com/role-models/dr-nadine-berner/)
 
 ## Workshops & Guest Lectures
 

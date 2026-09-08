@@ -26,4 +26,6 @@ I am particularly interested in problems where the data is structured by time or
 
 Alongside my day-to-day work, teaching and mentoring matter a lot to me — [more on that here →](/teaching/)
 
+Former board member of the [Working Group on Physics, Modern IT and Artificial Intelligence (AKPIK)](https://www.dpg-physik.de/vereinigungen/fachuebergreifend/ak/akpik/kontakt?set_language=de), German Physical Society (DPG).
+
 [Get in touch →](mailto:dinschuetz@web.de)
