@@ -3,11 +3,11 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+# 📖 Publications
 
 Full record also available on [Google Scholar](https://scholar.google.de/citations?user=LOjiOkkAAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0000-0002-1843-2747).
 
-## Peer-reviewed articles & proceedings
+## 📄 Peer-reviewed articles & proceedings
 
 **Berner, N.**, Trauth, M.H. & Holschneider, M. (2022). *Bayesian Inference about Plio-Pleistocene climate transitions in Africa*. Quaternary Science Reviews, Vol. 277, 107287. [doi:10.1016/j.quascirev.2021.107287](https://doi.org/10.1016/j.quascirev.2021.107287)
 
@@ -43,15 +43,15 @@ Aures, A., **Berner, N.**, Pautz, A. & Zwermann, W. (2020). *Uncertainty and sen
 
 **Schütz, N.** & Holschneider, M. (2011). *Detection of trend changes in time series using Bayesian inference*. Physical Review E, 84, 021120. [doi:10.1103/PhysRevE.84.021120](http://journals.aps.org/pre/abstract/10.1103/PhysRevE.84.021120)
 
-## PhD thesis
+## 🎓 PhD thesis
 
 **Berner, N.** (2016). *Deciphering multiple changes in complex climate time series using Bayesian inference*. PhD thesis, University of Potsdam. [Thesis](https://publishup.uni-potsdam.de/frontdoor/index/index/docId/10006)
 
-## Book contribution
+## 📚 Book contribution
 
 Kloos, M., **Berner, N.**, Peschke, J. & Scheuer, J. (2018). *MCDET: A Tool for Integrated Deterministic Probabilistic Safety Analyses*. Chapter in Aldemir, T. (Ed.) Advanced Concepts in Nuclear Energy Risk Assessment and Management, Modern Nuclear Energy Analysis Methods, Vol. 1, World Scientific Publishing. ISBN 978-981-3225-60-2. [doi:10.1142/10587](https://www.worldscientific.com/worldscibooks/10.1142/10587)
 
-## Technical reports
+## 🧾 Technical reports
 
 Kloos, M., **Berner, N.**, Peschke, J. & Scheuer, J. (2021). *Weiterentwicklung des Analysewerkzeugs SUSA – Adaptive Monte-Carlo-Simulation basierend auf maschinellen Lernalgorithmen und Entwicklungen zur Plattformunabhängigkeit*. GRS report No. 634. ISBN 978-3-949088-23-0. [Report](https://www.grs.de/sites/default/files/2021-12/GRS-634.pdf)
 
@@ -69,7 +69,7 @@ Kloos, M. & **Berner, N.** (2017). *Weiterentwicklung des Analysewerkzeugs SUSA 
 
 **Berner, N.** & Herb, J. (2017). *Weiterentwicklung der Methodik zur automatisierten Integration übergreifender Einwirkungen in PSA-Modelle der Stufe 1*. GRS report No. 454. ISBN 978-3-946607-36-6. [Report](https://www.grs.de/sites/default/files/pdf/grs-454.pdf) (incl. English abstract)
 
-## Conference & workshop contributions
+## 🎤 Conference & workshop contributions
 
 Trauth, M.H., Asrat, A., **Berner, N.**, Bibi, F., Foerster, V., Grove, M., Kaboth-Bahr, S., Maslin, M.A., Mudelsee, M. & Schaebitz, F. (2021). *Northern Hemisphere Glaciation, African Climate and Evolution*. EGU General Assembly 2021 (online), 19–30 Apr 2021, EGU21-805. [doi:10.5194/egusphere-egu21-805](https://doi.org/10.5194/egusphere-egu21-805)
 

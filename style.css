@@ -1,0 +1,147 @@
+/* ---------- Design tokens ---------- */
+:root {
+  --navy: #1f2d3d;
+  --navy-soft: #3a4a5e;
+  --accent: #4f7cac;
+  --accent-light: #8fb3e0;
+  --paper: #fdfdfc;
+  --ink: #2b2b2b;
+  --ink-soft: #5a5a5a;
+  --border: #e4e4e0;
+  --serif: "Iowan Old Style", "Palatino Linotype", Georgia, "Times New Roman", serif;
+  --sans: "Helvetica Neue", Arial, sans-serif;
+  --max-width: 720px;
+}
+
+/* ---------- Base ---------- */
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: 18px;
+  line-height: 1.65;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+a:hover {
+  color: var(--navy);
+  border-bottom-color: currentColor;
+}
+
+h1, h2, h3 {
+  font-family: var(--sans);
+  color: var(--navy);
+  line-height: 1.25;
+  font-weight: 700;
+}
+h1 { font-size: 2.1rem; margin: 0 0 0.4em 0; }
+h2 { font-size: 1.4rem; margin: 2em 0 0.6em 0; }
+h3 { font-size: 1.1rem; margin: 1.6em 0 0.3em 0; }
+
+p { margin: 0 0 1.1em 0; }
+ul, ol { margin: 0 0 1.1em 0; padding-left: 1.4em; }
+li { margin-bottom: 0.4em; }
+em { color: var(--ink-soft); }
+blockquote {
+  margin: 1.6em 0;
+  padding-left: 1.2em;
+  border-left: 3px solid var(--accent-light);
+  color: var(--ink-soft);
+  font-style: italic;
+}
+hr {
+  border: none;
+  border-top: 1px solid var(--border);
+  margin: 1.8em 0;
+}
+
+/* ---------- Header ---------- */
+.site-header {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2.4em 1.5em 1.2em 1.5em;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.6em;
+  border-bottom: 1px solid var(--border);
+}
+.site-title {
+  font-family: var(--sans);
+  font-weight: 700;
+  font-size: 1.15rem;
+  color: var(--navy);
+  border-bottom: none;
+}
+.site-title:hover { color: var(--accent); }
+
+.site-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.3em;
+  font-family: var(--sans);
+  font-size: 0.92rem;
+}
+.site-nav a {
+  color: var(--ink-soft);
+  border-bottom: none;
+}
+.site-nav a:hover { color: var(--accent); }
+
+/* ---------- Main ---------- */
+.site-main {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 2.4em 1.5em 1em 1.5em;
+}
+.site-main h1:first-child { margin-top: 0; }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  max-width: var(--max-width);
+  margin: 2em auto 0 auto;
+  padding: 1.6em 1.5em 3em 1.5em;
+  border-top: 1px solid var(--border);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 0.8em;
+  font-family: var(--sans);
+  font-size: 0.85rem;
+  color: var(--ink-soft);
+}
+.footer-links a {
+  color: var(--ink-soft);
+  margin-right: 1em;
+  border-bottom: none;
+}
+.footer-links a:hover { color: var(--accent); }
+
+/* ---------- Project pages ---------- */
+.project-back {
+  font-family: var(--sans);
+  font-size: 0.9rem;
+}
+.project-description {
+  font-family: var(--sans);
+  color: var(--ink-soft);
+  font-size: 1.05rem;
+  margin-top: -0.4em;
+}
+
+/* ---------- Responsive ---------- */
+@media (max-width: 560px) {
+  body { font-size: 16.5px; }
+  .site-header { padding: 1.6em 1.2em 1em 1.2em; }
+  .site-main { padding: 1.8em 1.2em 1em 1.2em; }
+}

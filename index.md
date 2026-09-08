@@ -3,10 +3,6 @@ title: Home
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
-**[Home](/)** · [About](/about/) · [Research](/research/) · [Teaching](/teaching/) · [Publications](/publications/)
-
----
-
 Lead Data Scientist · ⏱️ Time Series · 🌍 Geospatial Data · 📐 Statistics · 🤖 ML & AI
 
 I turn complex **temporal and spatial data into models, insights, and decisions**.
@@ -32,5 +28,3 @@ LLMs, AI-assisted analytics & anomaly detection agents.
 I'm always happy to exchange ideas, discuss interesting problems, or talk about what works — and what definitely doesn't.
 
 [Email](mailto:dinschuetz@web.de) · [LinkedIn](https://www.linkedin.com/in/nadineberner/) · [GitHub](https://github.com/pyatwork) · [Google Scholar](https://scholar.google.de/citations?user=LOjiOkkAAAAJ&hl=en&oi=ao) · [ORCID](https://orcid.org/0000-0002-1843-2747) · [CV (PDF)](/assets/cv/nadine-berner-cv.pdf)
-
-© 2026 Nadine Berner. Built with Jekyll and GitHub Pages ❤️
