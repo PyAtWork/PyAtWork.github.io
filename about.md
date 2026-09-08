@@ -3,9 +3,9 @@ title: About
 permalink: /about/
 ---
 
-# About
+# 🙋‍♀️ About
 
-## A data scientist with a scientific mindset
+## 🔬 A data scientist with a scientific mindset
 
 My work sits at the intersection of **statistics, machine learning, scientific computing, and complex systems**.
 
@@ -13,7 +13,7 @@ I started in theoretical physics, using Bayesian inference to decipher transitio
 
 I am particularly interested in problems where the data is structured by time or space, observations are noisy or incomplete, and uncertainty matters to the decision being made.
 
-### I tend to ask
+### 🤔 I tend to ask
 
 - What structure is hidden in the data?
 - How much of what we observe is signal versus noise?
