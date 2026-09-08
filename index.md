@@ -3,7 +3,7 @@ title: Home
 description: "Lead Data Scientist working at the intersection of time series, geospatial data, statistics, machine learning and AI."
 ---
 
-**[Home](/)** · [About](/about/) · [Research](/research/) · [Publications](/publications/)
+**[Home](/)** · [About](/about/) · [Research](/research/) · [Teaching](/teaching/) · [Publications](/publications/)
 
 ---
 

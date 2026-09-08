@@ -24,6 +24,6 @@ I am particularly interested in problems where the data is structured by time or
 > *"If the universe is the answer, what is the question?"*
 > — L.M. Lederman
 
-Alongside my day-to-day work, I mentor women in IT & Data Science through [coffeecodebreak](https://coffeecodebreak.de/html/female-tech-mentors-en.html).
+Alongside my day-to-day work, teaching and mentoring matter a lot to me — [more on that here →](/teaching/)
 
 [Get in touch →](mailto:dinschuetz@web.de)
