@@ -3,12 +3,12 @@ title: Research
 permalink: /research/
 ---
 
-# 🔬 Research
+# Research
 
-My research has consistently revolved around a simple question:
-> **How can we extract reliable information from complex systems when observations are noisy, incomplete and uncertain?**
+My research has consistently revolved around the question:
+> **How can we extract reliable information from complex systems when observations are noisy, incomplete, uncertain, and scale-dependent?**
 
-## 🧩 Themes
+## 🔬 Topics
 
 ### ⏱️ Time series & dynamics
 

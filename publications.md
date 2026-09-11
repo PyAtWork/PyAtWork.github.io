@@ -3,7 +3,7 @@ title: Publications
 permalink: /publications/
 ---
 
-# 📖 Publications
+# Publications
 
 Full record also available on [Google Scholar](https://scholar.google.de/citations?user=LOjiOkkAAAAJ&hl=en&oi=ao) and [ORCID](https://orcid.org/0000-0002-1843-2747).
 
